@@ -5,7 +5,8 @@
 
 # Dove Letter
 
-Dove Letter is a private subscription repository ([dove-letter](https://github.com/Dove-Letter/dove-letter)) where you can learn, discuss, and share new knowledge about Android and Kotlin. You can stay updated with the latest information through articles and references, tips with code samples that demonstrate best practices, updates from the Android Open Source Project (AOSP), new releases, and news about the overall Android/Kotlin ecosystem. Unlike a typical news or weekly letter, it provides useful tips and information irregularly but frequently from the letter manager, [Jaewoong Eum (skydoves)](https://github.com/skydoves/).
+Dove Letter is a private subscription repository ([dove-letter](https://github.com/Dove-Letter/dove-letter)) where you can learn, discuss, and share new knowledge about Android and Kotlin. You can stay updated with the latest information through articles and references, tips with code samples that demonstrate best practices, updates from the Android Open Source Project (AOSP), new releases, and news about the overall Android/Kotlin ecosystem. Unlike a typical news or weekly letter, it provides useful tips and information irregularly but frequently from the repository manager, [Jaewoong Eum (skydoves)](https://github.com/skydoves/).
+
 ### Learn the Latest News and knowledge about Android & Kotlin
 By subscribing to this repository, you'll stay updated with the latest release news, trending topics in the community, useful tools, open-source projects, and practical tips with code samples. This subscription is ideal for anyone eager to learn and stay informed about the Android/Kotlin ecosystems.
 
@@ -27,4 +28,4 @@ By subscribing via GitHub Sponsors, you will automatically be invited and grante
 
 ![subscription](https://github.com/user-attachments/assets/33186875-48a4-4b47-9aa6-69940eff9a07)
 
-Lastly, I greatly appreciate your subscription to Dove Letter. I hope you learn and find as much inspiration as possible.
+Lastly, I greatly appreciate your subscription to Dove Letter. Hope you learn and find as much inspiration as possible with Dove Letter.
