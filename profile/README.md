@@ -24,7 +24,7 @@ All commits and news are summarized and archived every 1-4 weeks into the reposi
 Subscribers can engage with each other by submitting useful articles, references, and tips with code samples via GitHub issues and initiating discussions on the repository. If you find an article or open-source project particularly useful or educational, you can bring it to the table and start the discussion by creating an issue on GitHub.
 
 ## How to Subscribe 💖
-By subscribing via GitHub Sponsors, you will automatically be invited and granted access to the [Dove Letter GitHub repository](https://github.com/Dove-Letter/dove-letter).
+[By subscribing via GitHub Sponsors](https://github.com/sponsors/skydoves), you will automatically be invited and granted access to the [Dove Letter GitHub repository](https://github.com/Dove-Letter/dove-letter).
 
 ![subscription](https://github.com/user-attachments/assets/33186875-48a4-4b47-9aa6-69940eff9a07)
 
