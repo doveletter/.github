@@ -27,4 +27,4 @@ By subscribing via GitHub Sponsors, you will automatically be invited and grante
 
 ![subscription](https://github.com/user-attachments/assets/33186875-48a4-4b47-9aa6-69940eff9a07)
 
-Lastly, I greatly appreciate your subscription to Dove Letter. I hope you learn and find as much inspiration as possible.
+Lastly, I greatly appreciate your subscription to Dove Letter. Hope you learn and find as much inspiration as possible.
