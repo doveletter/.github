@@ -7,7 +7,7 @@ By subscribing to this repository, you'll stay updated with the latest release n
 ## Learn the Latest News and knowledge about Android & Kotlin
 By subscribing to this repository, you'll stay updated with the latest release news, trending topics in the community, useful tools, open-source projects, and practical tips with code samples. This subscription is ideal for anyone eager to learn and stay informed about the Android/Kotlin ecosystems.
 
-![image](https://github.com/user-attachments/assets/432b8c59-e755-45e7-a3ec-b7c7bca53bfc)
+![dove-letter](https://github.com/user-attachments/assets/87e00688-a1e6-44a6-8e2c-454e2017f42e)
 
 ## Explore All Histories
 
