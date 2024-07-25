@@ -27,4 +27,8 @@ By subscribing via GitHub Sponsors, you will automatically be invited and grante
 
 ![subscription](https://github.com/user-attachments/assets/33186875-48a4-4b47-9aa6-69940eff9a07)
 
+Upon subscribing, you'll receive the following welcome message:
+
+![welcome](https://github.com/user-attachments/assets/8cf2a894-997c-482b-9eb6-bee226cf8616)
+
 Lastly, I greatly appreciate your subscription to Dove Letter. Hope you learn and find as much inspiration as possible.
