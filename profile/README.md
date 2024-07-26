@@ -31,4 +31,6 @@ Upon subscribing, you'll receive the following welcome message:
 
 ## Acknowledgments
 
-I greatly appreciate everyone who subscribes to Dove Letter. Hope you learn and find as much inspiration as possible with Dove Letter. 💙
+I greatly appreciate everyone who subscribes to Dove Letter. <br>
+
+Hope you learn and find as much inspiration as possible with Dove Letter. 💙
