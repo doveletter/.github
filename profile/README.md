@@ -27,7 +27,7 @@ Subscribers can engage with each other by submitting useful articles, references
 
 Upon subscribing, you'll receive the following welcome message:
 
-<img src="https://github.com/user-attachments/assets/8cf2a894-997c-482b-9eb6-bee226cf8616" width="42%" />
+<img src="https://github.com/user-attachments/assets/64c121b6-f896-4be3-a676-a058cf502d82" width="42%" />
 
 ## Acknowledgments
 
