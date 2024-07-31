@@ -13,6 +13,8 @@ By subscribing to this repository, you'll stay updated with the latest release n
 
 ![dove letter](https://github.com/user-attachments/assets/feccf738-d5a6-4344-8416-910d93fbfaf2)
 
+![dove letters2](https://github.com/user-attachments/assets/0d614aad-fb25-4fa4-a29b-dd6385223998)
+
 ## Explore All Histories
 
 All commits and news are summarized and archived every 1-4 weeks into the repository with GitHub releases based on the amount of material rather than a fixed schedule. You can explore all histories in markdown format on the GitHub repository.
