@@ -5,7 +5,7 @@
 
 # Dove Letter
 
-Dove Letter is a private subscription repository ([dove-letter](https://github.com/Dove-Letter/dove-letter)) where you can learn, discuss, and share new knowledge about Android and Kotlin. You can stay updated with the latest information through articles and references, tips with code samples that demonstrate best practices, updates from the Android Open Source Project (AOSP), new releases, and news about the overall Android/Kotlin ecosystem. Unlike a typical news or weekly letter, it provides useful tips and information irregularly but frequently from the repository manager, [Jaewoong Eum (skydoves)](https://github.com/skydoves/).
+Dove Letter is a private subscription repository ([dove-letter](https://github.com/doveletter/dove-letter)) where you can learn, discuss, and share new knowledge about Android and Kotlin. You can stay updated with the latest information through articles and references, tips with code samples that demonstrate best practices, updates from the Android Open Source Project (AOSP), new releases, and news about the overall Android/Kotlin ecosystem. Unlike a typical news or weekly letter, it provides useful tips and information irregularly but frequently from the repository manager, [Jaewoong Eum (skydoves)](https://github.com/skydoves/).
 
 ## Learn the Latest News and Knowledge About Android & Kotlin
 
