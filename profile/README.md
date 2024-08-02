@@ -17,9 +17,9 @@ By subscribing to this repository, you'll stay updated with the latest release n
 
 ## Explore All Histories
 
-All commits and news are summarized and archived every 1-4 weeks into the repository with GitHub releases based on the amount of material rather than a fixed schedule. You can explore all histories in markdown format on the GitHub repository. Additionally, you can search specific fields in the history by filtering labels.
+All commits and news are summarized and archived every 1-4 weeks into the repository with GitHub releases based on the amount of material rather than a fixed schedule. You can explore all histories in markdown format on the GitHub repository. Additionally, you can search specific fields in the history by filtering labels like the below.
 
-![filtering](https://github.com/user-attachments/assets/8fa5791c-95cf-4920-8791-7656583cd0c9)
+![filtering](https://github.com/user-attachments/assets/9f99277b-062a-4b23-a9e0-258fea3ec45b)
 
 ## Suggest and Discuss With The Other Subscribers
 
