@@ -5,7 +5,7 @@
 
 # Dove Letter
 
-Dove Letter is a private subscription repository ([dove-letter](https://github.com/Dove-Letter/dove-letter)) where you can learn, discuss, and share new knowledge about Android and Kotlin. You can stay updated with the latest information through articles and references, tips with code samples that demonstrate best practices, updates from the Android Open Source Project (AOSP), new releases, and news about the overall Android/Kotlin ecosystem. Unlike a typical news or weekly letter, it provides useful tips and information irregularly but frequently from the repository manager, [Jaewoong Eum (skydoves)](https://github.com/skydoves/).
+Dove Letter is a private subscription repository ([dove-letter](https://github.com/doveletter/dove-letter)) where you can learn, discuss, and share new knowledge about Android and Kotlin. You can stay updated with the latest information through articles and references, tips with code samples that demonstrate best practices, updates from the Android Open Source Project (AOSP), new releases, and news about the overall Android/Kotlin ecosystem. Unlike a typical news or weekly letter, it provides useful tips and information irregularly but frequently from the repository manager, [Jaewoong Eum (skydoves)](https://github.com/skydoves/).
 
 ## Learn the Latest News and Knowledge About Android & Kotlin
 
@@ -17,7 +17,9 @@ By subscribing to this repository, you'll stay updated with the latest release n
 
 ## Explore All Histories
 
-All commits and news are summarized and archived every 1-4 weeks into the repository with GitHub releases based on the amount of material rather than a fixed schedule. You can explore all histories in markdown format on the GitHub repository.
+All commits and news are summarized and archived every 1-4 weeks into the repository with GitHub releases based on the amount of material rather than a fixed schedule. You can explore all histories in markdown format on the GitHub repository. Additionally, you can search specific fields in the history by filtering labels.
+
+![filtering](https://github.com/user-attachments/assets/8fa5791c-95cf-4920-8791-7656583cd0c9)
 
 ## Suggest and Discuss With The Other Subscribers
 
