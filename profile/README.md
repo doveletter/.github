@@ -37,6 +37,6 @@ Upon subscribing, you'll receive the following welcome message:
 
 ## Acknowledgments
 
-I greatly appreciate for the first 15 subscribers for Dove Letter! 🎉🎉 <br>
+**I greatly appreciate for the first 20 subscribers after launching Dove Letter!** 🎉🎉 <br>
 
 Hope you learn and find as much inspiration as possible with Dove Letter. 💙
