@@ -37,6 +37,6 @@ Upon subscribing, you'll receive the following welcome message:
 
 ## Acknowledgments
 
-**I'm incredibly grateful to the first 25 subscribers who joined Dove Letter after its launch!** Your support means a lot, and I look forward to sharing valuable Android and Kotlin insights with you all 💙 <br>
+**I'm incredibly grateful to the first 30 subscribers who joined Dove Letter after its launch!** Your support means a lot, and I look forward to sharing valuable Android and Kotlin insights with you all 💙 <br>
 
 Hope you learn and find as much inspiration as possible with Dove Letter!
