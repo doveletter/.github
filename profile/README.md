@@ -25,7 +25,7 @@ All commits and news are summarized and archived every 1-4 weeks into the reposi
 
 You'll get information about competitive and new job postings for Android/Kotlin/KMP engineers.
 
-![job posting](https://github.com/user-attachments/assets/789d00da-807b-438d-924e-c8b610cbf563)
+<img src="https://github.com/user-attachments/assets/789d00da-807b-438d-924e-c8b610cbf563" width="65%" />
 
 
 ## Suggest and Discuss With The Other Subscribers
