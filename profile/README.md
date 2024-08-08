@@ -15,11 +15,18 @@ By subscribing to this repository, you'll stay updated with the latest release n
 
 ![dove letters2](https://github.com/user-attachments/assets/0d614aad-fb25-4fa4-a29b-dd6385223998)
 
-## Explore All Histories
+## Explore All Histories Effectively
 
 All commits and news are summarized and archived every 1-4 weeks into the repository with GitHub releases based on the amount of material rather than a fixed schedule. You can explore all histories in markdown format on the GitHub repository. Additionally, you can search specific fields in the history by filtering labels like the below.
 
 ![filtering](https://github.com/user-attachments/assets/9f99277b-062a-4b23-a9e0-258fea3ec45b)
+
+## Stay Updated with New Job Postings
+
+You'll get information about competitive and new job postings for Android/Kotlin/KMP engineers.
+
+![job posting](https://github.com/user-attachments/assets/789d00da-807b-438d-924e-c8b610cbf563)
+
 
 ## Suggest and Discuss With The Other Subscribers
 
