@@ -42,6 +42,10 @@ Upon subscribing, you'll receive the following welcome message:
 
 <img src="https://github.com/user-attachments/assets/8cf2a894-997c-482b-9eb6-bee226cf8616" width="42%" />
 
+Would you like to subscribe to Dove Letter privately? GitHub Sponsors offers an option for you to subscribe to Dove Letter discreetly, ensuring your privacy.
+
+<img width="474" alt="sponsor-private" src="https://github.com/user-attachments/assets/54ab5c43-60e3-4418-9348-3922e9f67a0d">
+
 ## Acknowledgments
 
 **I'm incredibly grateful to the first 30 subscribers who joined Dove Letter after its launch!** Your support means a lot, and I look forward to sharing valuable Android and Kotlin insights with you all 💙 <br>
