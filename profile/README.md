@@ -38,7 +38,7 @@ Subscribers can engage with each other by submitting useful articles, references
 
 ## How to Subscribe 💖
 
-[By subscribing via GitHub Sponsors](https://github.com/sponsors/skydoves), you will automatically be invited and granted access to the [Dove Letter GitHub repository](https://github.com/Dove-Letter/dove-letter). The subscription price is **$2 for early bird subscribers** but may gradually increase for later subscribers.
+[By subscribing via GitHub Sponsors](https://github.com/sponsors/skydoves), you will automatically be invited and granted access to the [Dove Letter GitHub repository](https://github.com/Dove-Letter/dove-letter). The subscription price is **$2 (monthly) for early bird subscribers** but may gradually increase for later subscribers.
 
 ![subscription](https://github.com/user-attachments/assets/64c121b6-f896-4be3-a676-a058cf502d82)
 
