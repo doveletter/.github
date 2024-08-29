@@ -11,6 +11,8 @@ Hope you learn and find as much inspiration as possible with Dove Letter!
 
 ![subs](https://github.com/user-attachments/assets/9260cc9b-5159-4a65-afdf-fdbbc6480c68)
 
+[How to Subscribe 💖](https://github.com/doveletter/.github?tab=readme-ov-file#how-to-subscribe-)
+
 ## Learn the Latest News and Knowledge About Android & Kotlin
 
 Dove Letter is a private subscription repository designed to help you learn, discuss, and share knowledge about Android and Kotlin. It keeps you informed with the latest articles, best practices, code samples, updates from the Android Open Source Project (AOSP), and news about the Android/Kotlin ecosystem. Unlike typical newsletters, Dove Letter delivers valuable tips and insights irregularly but frequently, curated by the author, ensuring you receive the most relevant content at the right time.
