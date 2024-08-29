@@ -11,7 +11,7 @@ Hope you learn and find as much inspiration as possible with Dove Letter!
 
 ![subs](https://github.com/user-attachments/assets/9260cc9b-5159-4a65-afdf-fdbbc6480c68)
 
-[How to Subscribe 💖](https://github.com/doveletter/.github?tab=readme-ov-file#how-to-subscribe-)
+**[How to Subscribe 💖](https://github.com/doveletter/.github?tab=readme-ov-file#how-to-subscribe-)**
 
 ## Learn the Latest News and Knowledge About Android & Kotlin
 
