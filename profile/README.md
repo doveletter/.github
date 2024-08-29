@@ -13,17 +13,39 @@ Hope you learn and find as much inspiration as possible with Dove Letter!
 
 ## Learn the Latest News and Knowledge About Android & Kotlin
 
-By subscribing to this repository, you'll stay updated with the latest release news, trending topics in the community, useful tools, open-source projects, and practical tips with code samples. This subscription is ideal for anyone eager to learn and stay informed about the Android/Kotlin ecosystems.
+Dove Letter is a private subscription repository designed to help you learn, discuss, and share knowledge about Android and Kotlin. It keeps you informed with the latest articles, best practices, code samples, updates from the Android Open Source Project (AOSP), and news about the Android/Kotlin ecosystem. Unlike typical newsletters, Dove Letter delivers valuable tips and insights irregularly but frequently, curated by the author, ensuring you receive the most relevant content at the right time.
 
 ![dove letter](https://github.com/user-attachments/assets/feccf738-d5a6-4344-8416-910d93fbfaf2)
 
 ![dove letters2](https://github.com/user-attachments/assets/0d614aad-fb25-4fa4-a29b-dd6385223998)
 
-## Effectively Explore All Histories
+## Enjoy Tips With Code
 
-All commits and news are summarized and archived every 1-4 weeks into the repository with GitHub releases based on the amount of material rather than a fixed schedule. You can explore all histories in markdown format on the GitHub repository. Additionally, you can search specific fields in the history by filtering labels like the below.
+One of the main reasons Dove Letter launched on GitHub is that it’s an ideal platform for sharing small but valuable code snippets and ideas — too detailed for social media but not extensive enough for a full blog post. GitHub allows for easy collaboration, and Dove Letter is open for contributions from anyone. If you have a great idea or tip, feel free to share it with the community and benefit from their feedback!
+
+![image](https://github.com/user-attachments/assets/29a37a19-cbfc-457c-9971-88d6f6286d2f)
+
+## Explore History Effectively
+
+One of the great features of the Dove Letter GitHub repository is the ability to search and filter history directly on the issue page. All commits and updates are summarized and archived every 1–4 weeks through GitHub releases based on content volume rather than a fixed schedule. However, you can also explore the entire history in markdown format by topic and easily filter topics using GitHub labels on the pull request page, making it simple to find and review specific content.
 
 ![filtering](https://github.com/user-attachments/assets/9f99277b-062a-4b23-a9e0-258fea3ec45b)
+
+## Suggest and Discuss with Other Subscribers
+
+Subscribers can actively engage by sharing useful articles, references, and code samples via GitHub issues, sparking discussions within the repository. If you discover an article or open-source project that you find particularly valuable or educational, you can initiate a conversation by creating an issue on GitHub. This collaborative approach allows you to contribute to the community and learn from the insights and experiences of others.
+
+![image](https://github.com/user-attachments/assets/64a2b777-e6c0-4418-9985-f082c4dd2c30)
+
+If you have any concerns or doubts about your team project or individual work, don’t hesitate to bring up any discussion topics. Engaging in open dialogue can lead to better solutions and clarity for everyone involved.
+
+![image](https://github.com/user-attachments/assets/bf957296-04bb-4441-9881-ee21948f98eb)
+
+## Learning From AOSP
+
+You can deepen your understanding by exploring the AOSP (Android Open Source Project), the backbone of all Android systems, including AndroidX Jetpack libraries and view systems. Dove Letter will provide valuable insights into AOSP topics, featuring the latest AOSP commits along with commentary from the author, helping you stay up-to-date and informed.
+
+![image](https://github.com/user-attachments/assets/9e8bd8b3-3070-4742-8243-f979b4995010)
 
 ## Stay Updated with New Job Postings
 
@@ -31,14 +53,9 @@ You'll get information about competitive and new job postings for Android/Kotlin
 
 <img src="https://github.com/user-attachments/assets/789d00da-807b-438d-924e-c8b610cbf563" width="65%" />
 
-
-## Suggest and Discuss With The Other Subscribers
-
-Subscribers can engage with each other by submitting useful articles, references, and tips with code samples via GitHub issues and initiating discussions on the repository. If you find an article or open-source project particularly useful or educational, you can bring it to the table and start the discussion by creating an issue on GitHub.
-
 ## How to Subscribe 💖
 
-[By subscribing via GitHub Sponsors](https://github.com/sponsors/skydoves), you will automatically be invited and granted access to the [Dove Letter GitHub repository](https://github.com/Dove-Letter/dove-letter). The subscription price is **$2 (monthly) for early bird subscribers** but may gradually increase for later subscribers.
+[By subscribing via GitHub Sponsors](https://github.com/sponsors/skydoves), you will automatically be invited and granted access to the [Dove Letter GitHub repository](https://github.com/Dove-Letter/dove-letter). The subscription price is **monthly $2 for early bird subscribers** but may gradually increase for later subscribers.
 
 ![subscription](https://github.com/user-attachments/assets/64c121b6-f896-4be3-a676-a058cf502d82)
 
