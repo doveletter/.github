@@ -68,3 +68,7 @@ Upon subscribing, you'll receive the following welcome message:
 Would you like to subscribe to Dove Letter privately? GitHub Sponsors offers an option for you to subscribe to Dove Letter discreetly, ensuring your privacy.
 
 <img width="374" alt="sponsor-private" src="https://github.com/user-attachments/assets/54ab5c43-60e3-4418-9348-3922e9f67a0d">
+
+## Acknowledgement 💙
+
+![ack](https://github.com/user-attachments/assets/c123c572-0549-4c9a-bb39-6cb6dede385c)
