@@ -77,7 +77,7 @@ If you're interested in subscribing as a business at your company or opting for 
 
 Next, scroll down until you find the options that include "You can access the Dove Letter private repository forever!" and select the one that suits you.
 
-![one-time2](https://github.com/user-attachments/assets/3c9f56ef-85a5-4c37-99fd-28eb95867b6e)
+![one-time2](https://github.com/user-attachments/assets/fbfea89a-4059-4353-b0a0-db82e112199c)
 
 For the lifetime plan, it may take up to 12 hours to receive your invitation to Dove Letter, along with a thank you message 💌.
 
