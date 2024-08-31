@@ -5,11 +5,11 @@ Dove Letter is a private subscription repository ([dove-letter](https://github.c
 
 <a href="https://github.com/sponsors/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/dove_letter.svg"/></a>
 
-**I'm incredibly grateful to the first 70 subscribers who joined Dove Letter after its launch!** Your support means a lot, and I look forward to sharing valuable Android and Kotlin insights with you all 💙 <br>
-
-Hope you learn and find as much inspiration as possible with Dove Letter!
+**I'm incredibly grateful to the first 80 subscribers who joined Dove Letter after its launch!** Your support means a lot, and I look forward to sharing valuable Android and Kotlin insights with you all 💙 <br>
 
 ![subs](https://github.com/user-attachments/assets/606c52d4-a27b-4071-8e4a-100c77f22cde)
+
+Hope you learn and find as much inspiration as possible with Dove Letter!
 
 **[How to Subscribe 💖](https://github.com/doveletter/.github?tab=readme-ov-file#how-to-subscribe-)**
 
@@ -68,6 +68,18 @@ Upon subscribing, you'll receive the following welcome message:
 Would you like to subscribe to Dove Letter privately? GitHub Sponsors offers an option for you to subscribe to Dove Letter discreetly, ensuring your privacy.
 
 <img width="374" alt="sponsor-private" src="https://github.com/user-attachments/assets/54ab5c43-60e3-4418-9348-3922e9f67a0d">
+
+## Subscribe for Business or for Lifetime
+
+If you're interested in subscribing as a business at your company or opting for a lifetime (forever) subscription to Dove Letter, you can choose from the one-time subscription options below:
+
+![one-time](https://github.com/user-attachments/assets/04b16bdc-c111-4604-ab40-c458459386db)
+
+Next, scroll down until you find the options that include "You can access the Dove Letter private repository forever!" and select the one that suits you.
+
+![one-time2](https://github.com/user-attachments/assets/3c9f56ef-85a5-4c37-99fd-28eb95867b6e)
+
+For the lifetime plan, it may take up to 12 hours to receive your invitation to Dove Letter, along with a thank you message 💌.
 
 ## Acknowledgement 💙
 
