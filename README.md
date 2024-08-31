@@ -9,7 +9,7 @@ Dove Letter is a private subscription repository ([dove-letter](https://github.c
 
 Hope you learn and find as much inspiration as possible with Dove Letter!
 
-![subs](https://github.com/user-attachments/assets/fd311400-d716-47b7-8a43-9b1e1cbd9d4d)
+![subs](https://github.com/user-attachments/assets/606c52d4-a27b-4071-8e4a-100c77f22cde)
 
 **[How to Subscribe 💖](https://github.com/doveletter/.github?tab=readme-ov-file#how-to-subscribe-)**
 
