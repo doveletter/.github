@@ -79,6 +79,8 @@ Next, scroll down until you find the options that include "You can access the Do
 
 ![one-time2](https://github.com/user-attachments/assets/fbfea89a-4059-4353-b0a0-db82e112199c)
 
+At this level, your company logo or personal profile will be prominently featured on the Dove Letter introduction page.
+
 For the lifetime plan, it may take up to 12 hours to receive your invitation to Dove Letter, along with a thank you message 💌.
 
 ## Acknowledgement 💙
