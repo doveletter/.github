@@ -29,7 +29,7 @@ One of the main reasons Dove Letter launched on GitHub is that it’s an ideal p
 
 These tips will be summarized and compiled into a PDF file once they accumulate to more than 10 items, and will be delivered every 1-2 months.
 
-![pdf](https://github.com/user-attachments/assets/c967aed8-a14b-4bb5-9cb9-879ac8c3a5df)
+<img src="https://github.com/user-attachments/assets/c967aed8-a14b-4bb5-9cb9-879ac8c3a5df" width="50%" />
 
 ## Explore History Effectively
 
