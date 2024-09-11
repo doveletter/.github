@@ -68,7 +68,7 @@ You'll get information about competitive and new job postings for Android/Kotlin
 - ~First 100 early subscribers: $2~ (sold out)
 - The next 200 subscribers (101~300th): $3 (**now!**)
 - The next 100 subscribers (301~400th): $4
-- The next 200 subscribers (401~601th): $5
+- The next 200 subscribers (401~600th): $5
 
 Upon subscribing, you'll receive the following welcome message:
 
