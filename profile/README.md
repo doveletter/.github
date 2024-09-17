@@ -5,9 +5,9 @@ Dove Letter is a private subscription repository ([dove-letter](https://github.c
 
 <a href="https://github.com/sponsors/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/dove_letter.svg"/></a>
 
-**I'm incredibly grateful to the **160 personnel subscribers and 2 business plan subscribers** who joined Dove Letter after its launch!** Your support means a lot, and I look forward to sharing valuable Android and Kotlin insights with you all 💙 <br>
+**I'm incredibly grateful to the **165 personnel subscribers and 2 business plan subscribers** who joined Dove Letter after its launch!** Your support means a lot, and I look forward to sharing valuable Android and Kotlin insights with you all 💙 <br>
 
-<img width="642" alt="subs" src="https://github.com/user-attachments/assets/55fffc8b-1ebf-41c9-a4f7-14f12a0ec712">
+![subs](https://github.com/user-attachments/assets/e9ff6b8b-f0a9-4a60-b791-c15e3f76814a)
 
 Hope you learn and find as much inspiration as possible with Dove Letter!
 
