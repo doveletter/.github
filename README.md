@@ -75,7 +75,7 @@ You'll get information about competitive and new job postings for Android/Kotlin
 - The next 100 subscribers (601~700th): $8
 
 > [!NOTE]
-> The subscription price will gradually increase as the number of subscribers grows; however, current subscribers will continue to pay the original price. For example, if you started your subscription at $4, you will continue to pay $4 per month, even if the subscription price increases for new subscribers.
+> By subscribing early, you'll benefit from a lower price compared to later subscribers. For example, if you start your subscription at $4, you'll continue to pay $4 per month, even if the subscription price increases for new subscribers in the future.
 
 Upon subscribing, you'll receive the following welcome message:
 
