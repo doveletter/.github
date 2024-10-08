@@ -32,6 +32,13 @@ These tips will be summarized and compiled into a PDF file once they accumulate 
 <img width="333" alt="2222" src="https://github.com/user-attachments/assets/53c621c6-d5e0-4d5d-b67b-e33bcc629d72">
 <img width="320" alt="2222" src="https://github.com/user-attachments/assets/54e36d71-863a-4061-a7de-8bc1b4462692">
 
+## Learn With Interview Questions
+
+One of the key benefits of subscribing to Dove Letter is that it regularly delivers industry-relevant interview questions focused on Android, Kotlin, Jetpack Compose, and Kotlin Multiplatform (KMP). These questions are commonly asked in tech interviews, so by simply reading them each day, you'll gradually build up your knowledge. Over several months or a year, you'll be well-prepared to tackle these topics.
+
+<img width="503" alt="2222" src="https://github.com/user-attachments/assets/01754b05-38ed-439d-852e-00639b230862">
+<img width="503" alt="2222" src="https://github.com/user-attachments/assets/c0e741b5-4027-4170-9b68-cd08f1fc587f">
+
 ## Explore History Effectively
 
 One of the great features of the Dove Letter GitHub repository is the ability to search and filter history directly on the issue page. All commits and updates are summarized and archived every 1–4 weeks through GitHub releases based on content volume rather than a fixed schedule. However, you can also explore the entire history in markdown format by topic and easily filter topics using GitHub labels on the pull request page, making it simple to find and review specific content.
