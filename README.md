@@ -106,6 +106,8 @@ At this level, your company logo or personal profile will be prominently feature
 
 For the lifetime plan, it may take up to 12 hours to receive your invitation to Dove Letter, along with a thank you message 💌.
 
+If your team plans to subscribe to the business plan, you can inquire (custom prices depending on your team size) about the details by emailing `skydoves2@gmail.com`.
+
 ## Acknowledgement 💙
 
 ![ack](https://github.com/user-attachments/assets/c123c572-0549-4c9a-bb39-6cb6dede385c)
