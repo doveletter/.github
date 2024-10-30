@@ -108,6 +108,10 @@ For the lifetime plan, it may take up to 12 hours to receive your invitation to 
 
 If your team plans to subscribe to the business plan, you can inquire (custom prices depending on your team size) about the details by emailing `skydoves2@gmail.com`.
 
-## Acknowledgement 💙
+## Acknowledgements 💙
+
+![222](https://github.com/user-attachments/assets/9da5eee7-c573-4e00-9033-467959f1c17d)
+
+![333](https://github.com/user-attachments/assets/6a5f69be-7f93-4efe-baf9-bdbd270d7da5)
 
 ![ack](https://github.com/user-attachments/assets/c123c572-0549-4c9a-bb39-6cb6dede385c)
