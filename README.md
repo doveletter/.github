@@ -88,6 +88,9 @@ Upon subscribing, you'll receive the following welcome message:
 
 <img src="https://github.com/user-attachments/assets/8cf2a894-997c-482b-9eb6-bee226cf8616" width="42%" />
 
+> [!NOTE]
+> The invitation may be delayed by up to 12 hours, as it depends on GitHub's automation system.
+
 Would you like to subscribe to Dove Letter privately? GitHub Sponsors offers an option for you to subscribe to Dove Letter discreetly, ensuring your privacy.
 
 <img width="374" alt="sponsor-private" src="https://github.com/user-attachments/assets/54ab5c43-60e3-4418-9348-3922e9f67a0d">
