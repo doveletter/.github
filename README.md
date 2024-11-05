@@ -69,7 +69,7 @@ You'll get information about competitive and new job postings for Android/Kotlin
 
 ## How to Subscribe 💖
 
-[By subscribing via GitHub Sponsors](https://github.com/sponsors/skydoves), you will automatically be invited and granted access to the [Dove Letter GitHub repository](https://github.com/Dove-Letter/dove-letter). The subscription price is **monthly $2 for early bird subscribers** but may gradually increase for later subscribers.
+[By subscribing via GitHub Sponsors](https://github.com/sponsors/skydoves), you will automatically be invited and granted access to the [Dove Letter GitHub repository](https://github.com/Dove-Letter/dove-letter). The subscription price is **monthly $5 for early bird subscribers** but may gradually increase for later subscribers.
 
 ![subscription](https://github.com/user-attachments/assets/a690a7b0-10a4-4e2f-84cc-a280c3c69734)
 
