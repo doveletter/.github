@@ -10,7 +10,7 @@ Dove Letter is a private subscription repository ([dove-letter](https://github.c
 > [!NOTE]
 > The subscription fee will **increase once the number of subscribers reaches 500**. By subscribing early, you'll benefit from a lower price compared to later subscribers.
 
-<img width="575" alt="2222" src="https://github.com/user-attachments/assets/3fc532e9-f34f-4b1e-8f4d-bad7637f2662">
+<img width="575" alt="2222" src="https://github.com/user-attachments/assets/b4bbd8a7-d1c4-4030-9928-e16b64cdc5af">
 
 Hope you learn and find as much inspiration as possible with Dove Letter!
 
