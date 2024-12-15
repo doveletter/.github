@@ -46,7 +46,7 @@ One of the key benefits of subscribing to Dove Letter is that it regularly deliv
 
 One of the great features of the Dove Letter GitHub repository is the ability to search and filter history directly on the issue page. All commits and updates are summarized and archived every 1–4 weeks through GitHub releases based on content volume rather than a fixed schedule. However, you can also explore the entire history in markdown format by topic and easily filter topics using GitHub labels on the pull request page, making it simple to find and review specific content.
 
-![filtering](https://github.com/user-attachments/assets/9f99277b-062a-4b23-a9e0-258fea3ec45b)
+![filtering](https://github.com/user-attachments/assets/b312d076-6b4a-4029-87d4-cbb4b3ad4944)
 
 ## Suggest and Discuss with Other Subscribers
 
