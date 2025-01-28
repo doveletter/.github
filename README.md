@@ -24,6 +24,10 @@ Dove Letter is a private subscription repository designed to help you learn, dis
 
 ![dove letters2](https://github.com/user-attachments/assets/0d614aad-fb25-4fa4-a29b-dd6385223998)
 
+When Dove Letter reached its 6-month milestone since launch, it had delivered a total of 750 learning materials— average of 125 resources per month.
+
+<img width="926" alt="histories" src="https://github.com/user-attachments/assets/2ae5df25-91c8-4ac8-b8e9-5df2ecb9e853" />
+
 ## Enjoy Tips With Code
 
 One of the main reasons Dove Letter launched on GitHub is that it’s an ideal platform for sharing small but valuable code snippets and ideas — too detailed for social media but not extensive enough for a full blog post. GitHub allows for easy collaboration, and Dove Letter is open for contributions from anyone. If you have a great idea or tip, feel free to share it with the community and benefit from their feedback!
