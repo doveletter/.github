@@ -8,7 +8,7 @@ Dove Letter is a private subscription repository ([dove-letter](https://github.c
 **I'm incredibly grateful to the total of **715 personnel subscribers and 20 business/lifetime plan subscribers** who joined Dove Letter after its launch!** Your support means a lot, and I look forward to sharing valuable Android and Kotlin insights with you all 💙 <br>
 
 > [!NOTE]
-> The subscription fee will **increase once the number of subscribers reaches 500**. By subscribing early, you'll benefit from a lower price compared to later subscribers.
+> The subscription fee will **increase once the current number of subscribers reaches 500**. By subscribing early, you'll benefit from a lower price compared to later subscribers.
 
 <img width="575" alt="2222" src="https://github.com/user-attachments/assets/220cff8b-598e-4746-a9eb-be860e040aaf">
 
