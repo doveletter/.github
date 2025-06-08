@@ -86,9 +86,11 @@ You'll get information about competitive and new job postings for Android/Kotlin
 - ~The next 100 subscribers: $3~ (**sold out**)
 - ~The next 100 subscribers: $4~ (**sold out**)
 - ~The next 100 subscribers: $5~ (**sold out**)
-- **The next 100 subscribers (401~500th): $6 (**now! 🕊️** )**
-- The next 100 subscribers (501~600th): $7
+- ~The next 100 subscribers: $6~ (**sold out**)
+- **The next 100 subscribers (501~600th): $7 (**now! 🕊️** )**
 - The next 100 subscribers (601~700th): $8
+- The next 100 subscribers (701~800th): $9
+- The next 100 subscribers (801~900th): $10
 
 > [!NOTE]
 > By subscribing early, you'll benefit from a lower price compared to later subscribers. For example, if you start your subscription at $4, you'll continue to pay $4 per month, even if the subscription price increases for new subscribers in the future.
